@@ -4,7 +4,7 @@
 </p>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE/Amanda.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE/Amanda-v2.0.git)
 
 
 ## New version Avaiilable on Telegram as [Amanda](https://t.me/TheAmandabot)
