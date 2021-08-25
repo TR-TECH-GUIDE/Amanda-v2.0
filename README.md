@@ -14,11 +14,6 @@ All other credits mentioned on top of scripts
 
 Should any be missing kindly let us know at [Amanda](https://t.me/SLBotsOfficial) or simply submit a pull request on the readme.
 
-## The Amanda the telegram Bot Project
-The Advanced Branch (For PRO's)
-
-The Amanda(advanced)
-
 
 ## Special Credits
-- [Tharuk Renuja](https://github.com/TR-TECH-GUIDE) - A Co-Developer of Project
+- [Tharuk Renuja](https://github.com/TR-TECH-GUIDE) - A Developer of Project
