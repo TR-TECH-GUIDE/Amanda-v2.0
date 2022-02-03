@@ -857,7 +857,7 @@ def main():
             updater.bot.set_webhook(url=URL + TOKEN, certificate=open(CERT_PATH, "rb"))
         else:
             updater.bot.set_webhook(url=URL + TOKEN)
-            client.run_until_disconnected()
+            pbot.run_until_disconnected()
 
     else:
         LOGGER.info("Using long polling.")
